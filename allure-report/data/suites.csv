@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15138","User Sign Up Account","chromium","2026-05-13","failed","2026-05-13","","signupPageTest.spec.js","",""
+"","30754","Close the sign up screen","chromium","2026-05-13","broken","2026-05-13","","signupPageTest.spec.js","",""
+"","30887","Valid login and logout Test","chromium","2026-05-13","broken","2026-05-13","","logoutPageTest.spec.js","",""
